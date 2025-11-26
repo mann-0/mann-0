@@ -1,9 +1,11 @@
 Hi there, I'm Mann Kumar 👋
 
 🎓 About Me
+
 Recent Bachelor of Information Technology graduate from Queensland University of Technology (QUT) with hands-on experience in full-stack development, backend engineering, and database design. I'm passionate about building scalable, efficient solutions that solve real-world problems.
 
 🔭 Currently seeking entry-level opportunities in software development, backend engineering, or junior data analyst
+
 🌱 Specialized in Python, Flask, PostgreSQL, and React.js
 💼 Experienced in building web applications for real-world clients
 📍 Based in Brisbane, Queensland, Australia
@@ -22,8 +24,8 @@ Core Competencies: Backend Development, Database Design, API Development, Full-S
 🌱 CarbonBalance - Sustainability Intervention Recommendation System
 A web-based decision-support system for construction professionals to identify and prioritize sustainability interventions.
 My Role: Backend Developer & Database Engineer
-Key Contributions:
 
+Key Contributions:
 Designed comprehensive PostgreSQL database schema with complex relationships
 Built RESTful APIs using Flask and SQLAlchemy for project management and recommendation algorithms
 Integrated backend services with React.js frontend for seamless data flow
@@ -38,6 +40,7 @@ Tech Stack: Python, Flask, PostgreSQL, SQLAlchemy, React.js, Tailwind CSS
 📱 Phone: +61 0412 744 851
 
 🎯 What I'm Looking For
+
 I'm actively seeking entry-level positions where I can:
 
 Apply my backend development and database engineering skills
