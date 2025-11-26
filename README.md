@@ -35,7 +35,7 @@ Tech Stack: Python, Flask, PostgreSQL, SQLAlchemy, React.js, Tailwind CSS
 
 🤝 Let's Connect
 
-💼 LinkedIn (Add your LinkedIn URL once created)
+💼 LinkedIn: https://www.linkedin.com/in/mann-kumar-70396839a/
 📧 Email: mann55kumar@gmail.com
 📱 Phone: +61 0412 744 851
 
